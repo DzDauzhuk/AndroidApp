@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="MyButtonText">Send</string>
+    <string name="NumberHint">Number</string>
+    <string name="Text1">Recipient phone</string>
+    <string name="Text2">Transfer phone</string>
+</resources>
